@@ -1,0 +1,5 @@
+/* added border to all elements including future elements  */
+* {
+    border-bottom: 1px solid black;
+}
+
